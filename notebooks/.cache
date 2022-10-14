@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-{"access_token": "BQCVIiAbuyCOxHaCvX9MUksI2frvXdwykO9zo1hmlzbueP04a8DLouQgsIeU7yHeciljFFSZlrln13lbjiFqPMCZqF9rSz75-E59XCDWEWvPzCCUXMM", "token_type": "Bearer", "expires_in": 3600, "expires_at": 1665643519}
-=======
-{"access_token": "BQAwzV3fp8p3uir2yRYkgQjnyJ-e-IYP2VQwllhLknCEQ7YE1lGIyKbfw99q2LxcRffLpqYZF8n8mhhqsTKv1LXp3pcFML9hP2_qpD9oGBy2y5gajV0", "token_type": "Bearer", "expires_in": 3600, "expires_at": 1665656007}
->>>>>>> d50dd67 (created functions for data collection)
-=======
-{"access_token": "BQAwzV3fp8p3uir2yRYkgQjnyJ-e-IYP2VQwllhLknCEQ7YE1lGIyKbfw99q2LxcRffLpqYZF8n8mhhqsTKv1LXp3pcFML9hP2_qpD9oGBy2y5gajV0", "token_type": "Bearer", "expires_in": 3600, "expires_at": 1665656007}
->>>>>>> 88894ebbca6254ab51bb80a91ce38c26db4d0d7f
+{"access_token": "BQCi6HNCNM5qLsFQpeTFs63ScqgKlAghxrB5_fNZBZnYCm9W8FcVfxu7ykutBf4bDr5Mp1KMGY2K7XD4kU2URWHEgkPggobXPYm3GD_V9YeADzRmEU0", "token_type": "Bearer", "expires_in": 3600, "expires_at": 1665773341}
