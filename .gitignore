@@ -1,2 +1,7 @@
-notebooks/.cache
-notebooks/.ipynb_checkpoints/*
+secret.txt
+.cache
+.ipynb_checkpoints/*
+*.zip
+.*
+*__pycache__*
+*.pyc

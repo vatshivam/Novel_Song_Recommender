@@ -1,0 +1,21 @@
+INFO:werkzeug: * Detected change in 'C:\\Users\\vatss\\codes\\DS-DataMining\\PracticalDataScience-ENCA\\recommendation_app\\application\\routes.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\vatss\\codes\\DS-DataMining\\PracticalDataScience-ENCA\\recommendation_app\\application\\routes.py', reloading
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-936-293
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-261-344
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\vatss\\codes\\DS-DataMining\\PracticalDataScience-ENCA\\recommendation_app\\application\\model.py', reloading
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:werkzeug: * Detected change in 'C:\\Users\\vatss\\codes\\DS-DataMining\\PracticalDataScience-ENCA\\recommendation_app\\application\\model.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-261-344
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-936-293
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 01:16:40] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 01:16:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
