@@ -19,3 +19,101 @@ INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 INFO:application:logging happened!
 INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 01:16:40] "POST /recommend HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 01:16:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:werkzeug: * Restarting with stat
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 653-775-125
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:49:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:49:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:49:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:49:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:werkzeug: * Restarting with stat
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 653-775-125
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:50:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:50:17] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:50:29] "GET /about HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:50:29] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:52:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:52:53] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:52:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:52:58] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:52:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:56:36] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:56:36] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:56:40] "[35m[1mPOST /recommend HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:56:40] "GET /recommend?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:56:40] "GET /recommend?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:56:40] "GET /recommend?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:56:40] "GET /recommend?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:58:46] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 16:58:46] "GET /static/style.css HTTP/1.1" 200 -
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:00:15] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:00:15] "GET /static/style.css HTTP/1.1" 200 -
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:02:09] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:02:10] "GET /static/style.css HTTP/1.1" 200 -
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:03:54] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:03:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:04:18] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:04:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:05:37] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:05:37] "GET /static/style.css HTTP/1.1" 200 -
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:05:47] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:05:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:05:55] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:05:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:06:10] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:06:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:06:32] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:06:32] "GET /static/style.css HTTP/1.1" 200 -
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:07:10] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:07:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:09:05] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:09:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:10:04] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:10:04] "GET /static/style.css HTTP/1.1" 200 -
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:10:31] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:10:31] "GET /static/style.css HTTP/1.1" 200 -
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:11:27] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:11:27] "GET /static/style.css HTTP/1.1" 200 -
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:12:03] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:12:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:13:03] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:13:03] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:13:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:20:28] "GET /about HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:20:28] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:20:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:21:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:21:18] "GET /static/style.css HTTP/1.1" 200 -
+INFO:application:logging happened!
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:21:25] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 17:21:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -

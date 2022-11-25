@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(black, rgb(53, 167, 104), rgb(169, 204, 176));
+    background-image: linear-gradient(to right,black, rgb(167, 53, 133), rgb(199, 169, 204));
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -13,11 +13,13 @@ body{
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(5, 350px);
+    margin-top: 50px;
 }
 
 .break {
     flex-basis: 100%;
     height: 5px;
+    font-family:'Gotham Rounded 300';
   }
 
 .input_field{
@@ -37,11 +39,10 @@ body{
 .results{
     grid-column: 4/6;
     grid-row:1;
+    font-family: Gotham Rounded 300;
 }
 
 .song {
-    background-color: #ececec;
-    border-left: solid 4px #81b71a;
     line-height: 18px;
     overflow: hidden;
     padding: 12px;
@@ -54,16 +55,16 @@ body{
 input.button1, input.input1, #number-of-recs{
     display:inline-block;
     padding:0.46em 1.6em;
-    border:0.1em solid #000000;
+    border:0.1em solid #0d010c4e;
     margin:0 0.2em 0.2em 0;
-    border-radius:0.12em;
-    box-sizing: border-box;
+    border-radius:0.05em;
+    box-sizing: content-box;
     text-decoration:none;
-    font-family:'Roboto',sans-serif;
+    font-family:'Gotham Rounded 300';
     font-weight:300;
-    color:#000000;
+    color:#ffffff;
     text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
-    background-color:#81b71a;
+    background-color:#0d010c4e;
     text-align:center;
     transition: all 0.15s;
 }
@@ -81,7 +82,7 @@ input.button1:hover{
 input.input1:hover{
     text-shadow: 0 0 2em rgba(255,255,255,1);
     color:#FFFFFF;
-    border-color:#81b71a;
+    border-color:#162005;
 }
 
 #number-of-recs:hover{
