@@ -49,7 +49,6 @@ def generate_playlist_recos(df, features, nonplaylist_features):
 
 
 def recommend_from_playlist(songDF,complete_feature_set,playlistDF_test):
-    print('inside model file')
     # Find feature
     complete_feature_set_playlist_vector, complete_feature_set_nonplaylist = generate_playlist_feature(complete_feature_set, playlistDF_test)
     
