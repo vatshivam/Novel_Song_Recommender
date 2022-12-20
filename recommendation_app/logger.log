@@ -495,3 +495,28 @@ INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 20:47:35] "GET /static/style.css HTTP/1
 INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 20:47:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
 INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 20:48:11] "POST /recommend HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 20:48:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 582-534-616
+ERROR:werkzeug:127.0.0.1 - - [20/Dec/2022 13:04:05] code 400, message Bad request version ('úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93JJ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+ERROR:werkzeug:127.0.0.1 - - [20/Dec/2022 13:04:05] code 400, message Bad request version ('\x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x8a\x8a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2022 13:04:05] "[35m[1m  üûÁ>èûÄÁÛ	{W|÷ð6@sÚ?=­És/ý* sÏrùÓ¡º|9ÕÛQb?ìæQëù34Ö|Ñ=îÓ)4uU  úúÀ+À/À,À0Ì©Ì¨ÀÀ   / 5 JJ     ÿ   [0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2022 13:04:05] "[35m[1m  ü´ÜRà`köè?ï½À÷^ÛØÐ¸Sqwê4 ªÜµb¥Ï}n`i
+éÇú&Ü[JÓõÀ  À+À/À,À0Ì©Ì¨ÀÀ   / 5      ÿ   [0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [20/Dec/2022 13:04:05] code 400, message Bad request version ('ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93')
+ERROR:werkzeug:127.0.0.1 - - [20/Dec/2022 13:04:05] code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ªª\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2022 13:04:05] "[35m[1m  üõITÑÒ|n«Ü`ûf(;¯.ììúÄïêÁCN  êÊr¸ýß]­ÏsÓ4ú¬40Fëòº¦émã7  ÚÚÀ+À/À,À0Ì©Ì¨ÀÀ   / 5 [0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2022 13:04:05] "[35m[1m  ü¸ÌÙ©T7'¼,Ìç0Ã¦1.ò*;y1 áo N	_åQa9°@ÒµnØÉaî"=|  ::À+À/À,À0Ì©Ì¨ÀÀ   / 5 ªª     ÿ   [0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2022 13:04:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2022 13:04:32] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2022 13:04:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2022 13:04:58] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2022 13:04:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2022 13:18:14] "[31m[1mGET /recommend HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2022 13:18:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2022 13:18:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2022 13:21:30] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2022 13:21:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -

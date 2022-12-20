@@ -1,4 +1,4 @@
-#!/Users/nazaryaremko/Downloads/PracticalDataScience-ENCA/recommendation_app/venv/bin/python3
+#!/Users/anshsachdeva/Documents/GitHub/Novel_Song_Recommender/recommendation_app/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

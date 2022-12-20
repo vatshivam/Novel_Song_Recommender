@@ -4,4 +4,4 @@ Beat Box generates personalized song recommendations based upon users' playlist.
 
 ### Demo 
 
-<!-- ![Demo](demo.gif) -->
+[Demo](demo.gif)
