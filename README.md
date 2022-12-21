@@ -39,7 +39,8 @@ python wsgi.py
 Visit 127.0.0.1:5000 and then beat it!
 
 
-![Click here to learn more about our recommender system.](Project_Report_Team_19.pdf)
+<a href="https://my.github.io/NOVEL_SONG_RECOMMENDER/Project_Report_Team_19.pdf">Click here to learn more about our recommender system.</a>
+
 ### Authors
 
 #### Shivam Vats and Ansh Sachdeva
