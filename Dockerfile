@@ -2,13 +2,13 @@
 
 FROM python:3.8-slim-buster
 
-WORKDIR /app
+WORKDIR /recommendation_app
 
-COPY recommendation_app/requirements.txt recommendation_app/requirements.txt
-RUN pip3 install -r recommendation_app/requirements.txt
+COPY recommendation_app/requirements.txt requirements.txt
+RUN pip3 install -r requirements.txt
 
 COPY . .
 
 ENTRYPOINT [ "python" ]
 
-CMD ["recommendation_app/wsgi.py"]
+CMD ["wsgi.py"]
