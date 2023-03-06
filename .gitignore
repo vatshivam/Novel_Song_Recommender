@@ -6,4 +6,4 @@ secret.txt
 *__pycache__*
 *.pyc
 *.log
-venv/**
+recommendation_app/venv
