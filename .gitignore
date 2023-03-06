@@ -5,5 +5,5 @@ secret.txt
 .*
 *__pycache__*
 *.pyc
-*.log
+recommendation_app/looger.log
 recommendation_app/venv
