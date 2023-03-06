@@ -11,4 +11,4 @@ COPY . .
 
 ENTRYPOINT [ "python" ]
 
-CMD ["wsgi.py"]
+CMD ["./recommendation_app/wsgi.py"]
